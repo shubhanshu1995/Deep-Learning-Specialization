@@ -1,3 +1,3 @@
 # Deep-Learning-Specialization
 
-## Instructor: Andrew-Ng
+## Instructor: Andrew Ng
